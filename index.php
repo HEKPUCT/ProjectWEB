@@ -32,8 +32,6 @@ if (isset($data['do_login'])) {
     }
 
 }
-
-
 ?>
 
 <!DOCTYPE html>
